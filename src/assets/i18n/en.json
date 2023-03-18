@@ -29,17 +29,17 @@
     "valor4": "Honesty",
     "valor5": "Unity"
   },
-  "datosRealidad":"Datos y realidad.",
+  "datosRealidad":"Data and reality.",
   "datos-realidad":{
-    "title1":"Desesperanza",
-    "content1":"Internos con condenas de 20, 30 o 40 años por delitos graves son los que cometen algunos de los crímenes en las cárceles a cambio de dinero y drogas.",
-    "title2": "Hacinamiento",
-    "content2": "Octubre 2021 en las penitenciarías estaban recluidas 39.600 personas, aunque la infraestructura física tiene capacidad solo para 27.742. Hacinamiento del 37%.",
-    "title3": "Exceso de burocracia",
-    "content3": "24 mil tienen sentencia. Los demás esperan resolver su caso. 800 tienen boleta de apremio y 600 por alguna contravención menor. Lentitud en los procesos judiciales.",
-    "title4": "Corrupción",
-    "content4":"Todo cuesta de $5 para arriba. Sobornos de internos y guardias. Una colchoneta: $150, pasta y jabón: $10, una cajetilla de cigarrillos: entre $40 y $50, una funda con panes: entre $10 y $15.",
-    "title5":"Muertes",
-    "content5": "Desde enero 2019 se cuentan 22 asesinatos en las cárceles. En febrero 2021, 75 muertos por amotinamientos y conflictos internos."
+    "title1":"Hopelessness.",
+    "content1":"Inmates with sentences of 20, 30, or 40 years for serious crimes are the ones who commit some of the crimes in prisons in exchange for money and drugs.",
+    "title2": "Overcrowding.",
+    "content2": "As of October 2021, 39,600 people were incarcerated in prisons, although the physical infrastructure has a capacity of only 27,742. Overcrowding of 37%.",
+    "title3": "Excess of bureaucracy.",
+    "content3": "24 thousand have a sentence. The rest are waiting to have their case resolved. 800 have an arrest warrant and 600 for some minor offense. Slowness in judicial processes.",
+    "title4": "Corruption.",
+    "content4":"Everything costs $5 or more. Bribes from inmates and guards. A mattress costs $150, toothpaste and soap $10, a pack of cigarettes is worth between $40 and $50, a bag of bread costs between $10 and $15.",
+    "title5":"Deaths.",
+    "content5": "Since January 2019, there have been 22 murders in prisons. In February 2021, there were 75 deaths due to riots and internal conflicts."
   }
 }
