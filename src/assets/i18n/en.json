@@ -1,0 +1,45 @@
+{
+  "rutas": {
+    "rutaHome": "Home",
+    "rutaPrograms": "Programs",
+    "rutaAportes": "Contributions",
+    "rutaTestimonios": "Testimonials",
+    "rutatContactos": "Contacts"
+  },
+  "header": {
+    "bootom-language": "Switch to"
+  },
+  "home": {
+    "titulo": "Prison Fellowship Foundation",
+    "quienes-somos": "We are a non-profit foundation that is in Ecuador at the national level, which offers programs inside and outside the walls of prisons, focused on people deprived of their liberty and their families. Carrying out prevention and post-penalty projects for graduates, with the aim of preventing the recidivism of criminal behavior."
+  },
+  "vision": {
+    "titulo": "Vision",
+    "contenido": "Our vision is to positively impact Ecuadorian society through programs based on forgiveness, restitution, and the reintegration of those who have been deprived of their freedom. Similarly, we want to help their families prevent future criminal behavior, thus breaking the cycle of crime in our society."
+  },
+  "mision": {
+    "titulo": "Mission",
+    "contenido": "Our mission is to promote restoration and reconciliation in society. Our programs are designed to help all those affected by crime and violence find peace and healing. We work tirelessly to improve the lives of those deprived of their freedom and their families, and to prevent future crimes through education and training. Together, we can build a brighter future and a more just world for all."
+  },
+  "nuestrosValores": "Our values.",
+  "nuestros-valores": {
+    "valor1": "Love",
+    "valor2": "Excellence",
+    "valor3": "Respect",
+    "valor4": "Honesty",
+    "valor5": "Unity"
+  },
+  "datosRealidad":"Datos y realidad.",
+  "datos-realidad":{
+    "title1":"Desesperanza",
+    "content1":"Internos con condenas de 20, 30 o 40 años por delitos graves son los que cometen algunos de los crímenes en las cárceles a cambio de dinero y drogas.",
+    "title2": "Hacinamiento",
+    "content2": "Octubre 2021 en las penitenciarías estaban recluidas 39.600 personas, aunque la infraestructura física tiene capacidad solo para 27.742. Hacinamiento del 37%.",
+    "title3": "Exceso de burocracia",
+    "content3": "24 mil tienen sentencia. Los demás esperan resolver su caso. 800 tienen boleta de apremio y 600 por alguna contravención menor. Lentitud en los procesos judiciales.",
+    "title4": "Corrupción",
+    "content4":"Todo cuesta de $5 para arriba. Sobornos de internos y guardias. Una colchoneta: $150, pasta y jabón: $10, una cajetilla de cigarrillos: entre $40 y $50, una funda con panes: entre $10 y $15.",
+    "title5":"Muertes",
+    "content5": "Desde enero 2019 se cuentan 22 asesinatos en las cárceles. En febrero 2021, 75 muertos por amotinamientos y conflictos internos."
+  }
+}

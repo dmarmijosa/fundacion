@@ -1,0 +1,47 @@
+{
+  "rutas": {
+    "rutaHome": "Inicio",
+    "rutaPrograms": "Programas",
+    "rutaAportes": "Aportes",
+    "rutaTestimonios": "Testimonios",
+    "rutatContactos": "Contactos"
+  },
+  "header": {
+    "bootom-language": "Cambiar a"
+  },
+  "home": {
+    "titulo": "Fundación Confraternidad Carcelaria.",
+    "quienes-somos": "Somos una fundación que está en el ecuador a nivel nacional sin ánimo de lucro, que  ofrece  programas intra y extra muros   de las  cárceles, enfocado en las personas  privadas de libertad y sus familias.  Realizando proyectos de prevención y post-penados para los egresados, con el objetivo de prevenir la reincidencia de conductas delictivas."
+  },
+  "vision": {
+    "titulo": "Visión",
+    "contenido": "Nuestra visión es impactar positivamente a la sociedad ecuatoriana mediante programas basados en el perdón, la restitución y la reinserción de las personas privadas de libertad. De igual manera, quiero ayudar a sus familias a prevenir futuras conductas delictivas, rompiendo así el círculo criminal en nuestra sociedad."
+  },
+  "mision": {
+    "titulo": "Misión",
+    "contenido": "Nuestra misión es promover la restauración y reconciliación en la sociedad. Nuestros programas están diseñados para ayudar a todos aquellos que han sido afectados por el delito y la violencia a encontrar la paz y la sanación. Trabajamos incansablemente para mejorar la vida de las personas privadas de libertad y sus familias, y para prevenir futuros delitos a través de la educación y la formación. Juntos, podemos construir un futuro más brillante y un mundo más justo para todos."
+  },
+  "nuestrosValores": "Nuestros valores.",
+  "nuestros-valores": {
+    "valor1": "Amor",
+    "valor2": "Excelencia",
+    "valor3": "Respeto",
+    "valor4": "Honestidad",
+    "valor5": "Unidad"
+  },
+  "datosRealidad":"Datos y realidad.",
+  "datos-realidad":{
+    "title1":"Desesperanza",
+    "content1":"Internos con condenas de 20, 30 o 40 años por delitos graves son los que cometen algunos de los crímenes en las cárceles a cambio de dinero y drogas.",
+    "title2": "Hacinamiento",
+    "content2": "Octubre 2021 en las penitenciarías estaban recluidas 39.600 personas, aunque la infraestructura física tiene capacidad solo para 27.742. Hacinamiento del 37%.",
+    "title3": "Exceso de burocracia",
+    "content3": "24 mil tienen sentencia. Los demás esperan resolver su caso. 800 tienen boleta de apremio y 600 por alguna contravención menor. Lentitud en los procesos judiciales.",
+    "title4": "Corrupción",
+    "content4":"Todo cuesta de $5 para arriba. Sobornos de internos y guardias. Una colchoneta: $150, pasta y jabón: $10, una cajetilla de cigarrillos: entre $40 y $50, una funda con panes: entre $10 y $15.",
+    "title5":"Muertes",
+    "content5": "Desde enero 2019 se cuentan 22 asesinatos en las cárceles. En febrero 2021, 75 muertos por amotinamientos y conflictos internos."
+  }
+    
+
+}

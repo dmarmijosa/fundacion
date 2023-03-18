@@ -1,0 +1,11 @@
+.contenedor{
+    background-image: url('../../../assets/images/motines-en-cuatro-carceles-de-ecuador.png');
+}
+.txtIntro{
+    text-align: justify;
+}
+.pais{
+    background-color: red;
+    color:white;
+    padding: 8px;
+}
