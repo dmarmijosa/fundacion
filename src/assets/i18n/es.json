@@ -29,19 +29,34 @@
     "valor4": "Honestidad",
     "valor5": "Unidad"
   },
-  "datosRealidad":"Datos y realidad.",
-  "datos-realidad":{
-    "title1":"Desesperanza.",
-    "content1":"Internos con condenas de 20, 30 o 40 años por delitos graves son los que cometen algunos de los crímenes en las cárceles a cambio de dinero y drogas.",
+  "datosRealidad": "Datos y realidad.",
+  "datos-realidad": {
+    "title1": "Desesperanza.",
+    "content1": "Internos con condenas de 20, 30 o 40 años por delitos graves son los que cometen algunos de los crímenes en las cárceles a cambio de dinero y drogas.",
     "title2": "Hacinamiento.",
     "content2": "Octubre 2021 en las penitenciarías estaban recluidas 39.600 personas, aunque la infraestructura física tiene capacidad solo para 27.742. Hacinamiento del 37%.",
     "title3": "Exceso de burocracia.",
     "content3": "24 mil tienen sentencia. Los demás esperan resolver su caso. 800 tienen boleta de apremio y 600 por alguna contravención menor. Lentitud en los procesos judiciales.",
     "title4": "Corrupción.",
-    "content4":"Todo cuesta de $5 para arriba. Sobornos de internos y guardias. Una colchoneta: $150, pasta y jabón: $10, una cajetilla de cigarrillos: entre $40 y $50, una funda con panes: entre $10 y $15.",
-    "title5":"Muertes.",
+    "content4": "Todo cuesta de $5 para arriba. Sobornos de internos y guardias. Una colchoneta: $150, pasta y jabón: $10, una cajetilla de cigarrillos: entre $40 y $50, una funda con panes: entre $10 y $15.",
+    "title5": "Muertes.",
     "content5": "Desde enero 2019 se cuentan 22 asesinatos en las cárceles. En febrero 2021, 75 muertos por amotinamientos y conflictos internos."
+  },
+  "prioridadesynecesidades": {
+    "title1": "Prioridad y necesidad número 1.",
+    "content1": "Humanizar la realidad y vulnerabilidad del privado de libertad y las condiciones de vida llenas de rechazos, aislamiento, menosprecios, ignorados y de alguna u otra manera, señalados constantemente por su delito, sin oportunidad de cambio.",
+    "title2": "Prioridad y necesidad número 2.",
+    "content2": "Asistir y proporcionar ayuda espiritual y psicológica para hacer posible una recuperación y reintegración más adecuada en la sociedad, previniendo que vuelvan a reincidir en conductas delictivas.",
+    "title3": "Prioridad y necesidad número 3.",
+    "content3": "Apoyo y recuperación psicológica y espiritual de las familias, como víctimas, frente a los traumas causados por la conducta delictiva. Previniendo así la repetición del ciclo de criminalidad."
+  },
+  "fundamentos": "FUNDAMENTOS DOCTRINALES DE NUESTRA FE CRISTIANA.",
+  "fundamentosDoctrinales":{
+    "dato1":"Reconocemos la suprema autoridad de la Biblia como la palabra de Dios, inspirada por su Santo Espíritu. (2 Timoteo 3:16; 2 Pedro 1:21).",
+    "dato2": "Creemos firmemente en Dios Padre, Dios Hijo y Dios Espíritu Santo. Dios es nuestro Padre Celestial, Jesucristo es nuestro Salvador, el Espíritu Santo es nuestro Consolador y guía a la verdad. (Lucas 1:35; Mateo 3:16-17; Lucas 3:21-22; 1 Pedro 1:2, Juan 1:1, 20:28).",
+    "dato3": "Confesamos que la salvación es por gracia y no por obras, y viene totalmente de Dios, y él en su gran amor, nos permite ser salvos y tener vida eterna a través de la fe en su Hijo Jesucristo. (Efesios 2:8-9; Romanos 3:12-23; 2 Corintios 5:21; Juan 1:12; Efesios 1:7; 2:8–10; 1 Pedro 1:18–19; Juan 3:16).",
+    "dato4": "Afirmamos que el Bautismo en agua es un paso que da el creyente para testificar públicamente su fe en Jesús, quien fue crucificado, sepultado y resucitado. El Bautismo no salva y no es para perdón de pecados. (Mateo 3:16; 28:18-19; Juan 3:23; Hechos 8:36-38; Romanos 6:3-4; 1 Pedro 3:21).",
+    "dato5": "Sabemos que la justificación delante de Dios es un acto de Dios por medio del cual Él declara justos a aquellos a quienes, a través de la fe en Cristo, se arrepienten verdaderamente de sus pecados: (Hechos 13:39; Romanos 3:24-26; Romanos 4:25; Romanos 5:1; Romanos 5:9; 1 Corintios 1:30; 1 Corintios 6:11).",
+    "dato6" :"NOTA: Nos apasiona ver que se cumpla la Gran Comisión y estamos buscando compañeros de equipo que se destaquen en sus campos y quieran usar sus dones y habilidades para impactar en el reino."
   }
-    
-
 }

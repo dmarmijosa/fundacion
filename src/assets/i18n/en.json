@@ -29,17 +29,34 @@
     "valor4": "Honesty",
     "valor5": "Unity"
   },
-  "datosRealidad":"Data and reality.",
-  "datos-realidad":{
-    "title1":"Hopelessness.",
-    "content1":"Inmates with sentences of 20, 30, or 40 years for serious crimes are the ones who commit some of the crimes in prisons in exchange for money and drugs.",
+  "datosRealidad": "Data and reality.",
+  "datos-realidad": {
+    "title1": "Hopelessness.",
+    "content1": "Inmates with sentences of 20, 30, or 40 years for serious crimes are the ones who commit some of the crimes in prisons in exchange for money and drugs.",
     "title2": "Overcrowding.",
     "content2": "As of October 2021, 39,600 people were incarcerated in prisons, although the physical infrastructure has a capacity of only 27,742. Overcrowding of 37%.",
     "title3": "Excess of bureaucracy.",
     "content3": "24 thousand have a sentence. The rest are waiting to have their case resolved. 800 have an arrest warrant and 600 for some minor offense. Slowness in judicial processes.",
     "title4": "Corruption.",
-    "content4":"Everything costs $5 or more. Bribes from inmates and guards. A mattress costs $150, toothpaste and soap $10, a pack of cigarettes is worth between $40 and $50, a bag of bread costs between $10 and $15.",
-    "title5":"Deaths.",
+    "content4": "Everything costs $5 or more. Bribes from inmates and guards. A mattress costs $150, toothpaste and soap $10, a pack of cigarettes is worth between $40 and $50, a bag of bread costs between $10 and $15.",
+    "title5": "Deaths.",
     "content5": "Since January 2019, there have been 22 murders in prisons. In February 2021, there were 75 deaths due to riots and internal conflicts."
+  },
+  "prioridadesynecesidades": {
+    "title1": "Priority and necessity number 1.",
+    "content1": "Humanize the reality and vulnerability of the deprived of liberty and the living conditions filled with rejection, isolation, disdain, being ignored and, in one way or another, constantly pointed out for their crime, without opportunity for change.",
+    "title2": "Priority and necessity number 2.",
+    "content2":"To assist and provide spiritual and psychological support to make possible a more suitable recovery and reintegration into society, preventing them from reoffending.",
+    "title3": "Priority and necessity number 3.",
+    "content3": "Psychological and spiritual support and recovery for families, as victims, facing the traumas caused by criminal behavior. Thus, preventing the repetition of the cycle of criminality."
+  },
+  "fundamentos": "DOCTRINAL FOUNDATIONS OF OUR CHRISTIAN FAITH.",
+  "fundamentosDoctrinales":{
+    "dato1":"We recognize the supreme authority of the Bible as the Word of God, inspired by His Holy Spirit. (2 Timothy 3:16; 2 Peter 1:21).",
+    "dato2": "We firmly believe in God the Father, God the Son, and God the Holy Spirit. God is our Heavenly Father, Jesus Christ is our Savior, and the Holy Spirit is our Comforter and guide to the truth. (Luke 1:35; Matthew 3:16-17; Luke 3:21-22; 1 Peter 1:2, John 1:1, 20:28).",
+    "dato3": "We confess that salvation is by grace and not by works, and comes entirely from God, and in His great love, He allows us to be saved and have eternal life through faith in His Son Jesus Christ. (Ephesians 2:8-9; Romans 3:12-23; 2 Corinthians 5:21; John 1:12; Ephesians 1:7; 2:8-10; 1 Peter 1:18-19; John 3:16).",
+    "dato4": "We affirm that water baptism is a step that believers take to publicly testify to their faith in Jesus, who was crucified, buried, and resurrected. Baptism does not save and is not for the forgiveness of sins. (Matthew 3:16; 28:18-19; John 3:23; Acts 8:36-38; Romans 6:3-4; 1 Peter 3:21).",
+    "dato5": "We know that justification before God is an act of God by which He declares righteous those who, through faith in Christ, truly repent of their sins. (Acts 13:39; Romans 3:24-26; Romans 4:25; Romans 5:1; Romans 5:9; 1 Corinthians 1:30; 1 Corinthians 6:11).",
+    "dato6" :"NOTE: We are passionate about fulfilling the Great Commission and are seeking team members who excel in their fields and want to use their gifts and abilities to impact the kingdom."
   }
 }

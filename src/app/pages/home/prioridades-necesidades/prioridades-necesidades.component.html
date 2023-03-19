@@ -1,1 +1,42 @@
-<p>prioridades-necesidades works!</p>
+<section class="row align-items-md-stretch mb-4">
+
+    <hr class="featurette-divider mt-4 mb-4">
+    <div class="row featurette">
+        <div class="col-md-7">
+            <h2 class="featurette-heading fw-normal lh-1">{{prioridades[0].titulo | translate}}</h2>
+            <p class="lead">{{prioridades[0].dato | translate}}</p>
+        </div>
+        <div class="col-md-5">
+            <figure>
+                <img class="img1" [src]="prioridades[0].urlImg">
+            </figure>
+        </div>
+    </div>
+    <hr class="featurette-divider mt-4 mb-4">
+    <div class="row featurette">
+        <div class="col-md-7 order-md-2">
+            <h2 class="featurette-heading fw-normal lh-1">{{prioridades[1].titulo | translate}}</h2>
+            <p class="lead">{{prioridades[1].dato | translate}}</p>
+        </div>
+        <div class="col-md-5 order-md-1">
+            <figure>
+                <img [src]="prioridades[1].urlImg"  class="img1" >
+            </figure>
+        </div>
+    </div>
+    <hr class="featurette-divider mt-4 mb-4">
+    <div class="row featurette">
+        <div class="col-md-7">
+            <h2 class="featurette-heading fw-normal lh-1">{{prioridades[2].titulo | translate}}</h2>
+            <p class="lead">{{prioridades[2].dato | translate}}</p>
+        </div>
+        <div class="col-md-5">
+            <figure>
+                <img class="img1" [src]="prioridades[2].urlImg">
+            </figure>
+        </div>
+    </div>
+    <hr class="featurette-divider mt-4 mb-4">
+
+
+</section>

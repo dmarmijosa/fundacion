@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ImagenesIterfaces } from 'src/app/interfaces/imagenes-valores';
+import { ImagenesIterfaces } from 'src/app/interfaces/imagenes-valores.interface';
 
 @Component({
   selector: 'app-nuestros-valores',

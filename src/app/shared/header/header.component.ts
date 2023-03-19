@@ -1,5 +1,5 @@
 import { Component, EventEmitter, OnInit, Output } from '@angular/core';
-import { Rutas } from '../../interfaces/rutas.models';
+import { Rutas } from '../../interfaces/rutas.models.interface';
 
 @Component({
   selector: 'app-header',
