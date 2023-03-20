@@ -12,11 +12,11 @@ export class HeaderComponent implements OnInit {
 
   idioma:string= 'Ingles';
   rutasApp: Rutas[] = [
-    { nombre: 'rutas.rutaHome', ruta: '/' },
-    { nombre: 'rutas.rutaPrograms', ruta: 'programas' },
-    { nombre: 'rutas.rutaAportes', ruta: 'aportes' },
-    { nombre: 'rutas.rutaTestimonios', ruta: 'testimonios' },
-    { nombre: 'rutas.rutatContactos', ruta: 'contactos' },
+    { nombre: 'rutas.rutaHome', ruta: '' },
+    { nombre: 'rutas.rutaPrograms', ruta: 'app/programas' },
+    { nombre: 'rutas.rutaAportes', ruta: 'app/aportes' },
+    { nombre: 'rutas.rutaTestimonios', ruta: 'app/testimonios' },
+    { nombre: 'rutas.rutatContactos', ruta: 'app/contactos' },
   ];
   constructor(
   ) {}

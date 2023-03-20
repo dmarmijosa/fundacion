@@ -3,12 +3,13 @@ import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
   {
-    path:'',
+    path:'app',
     loadChildren: ()=> import('./pages/pages-routing.module').then(m=> m.PagesRoutingModule),
+    pathMatch:'prefix'
   },
   {
     path:'**',
-    redirectTo:''
+    redirectTo:'/app/home'
   }
 ];
 
