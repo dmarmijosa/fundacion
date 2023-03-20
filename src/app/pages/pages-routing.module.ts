@@ -13,7 +13,8 @@ const routes: Routes = [
   {path:'testimonios', component: TestimoniosComponent},
   {path:'contactos', component: ContactosComponent},
   {
-    path:'**', redirectTo:'home'
+    path:'**', redirectTo:'home',
+    
   }
 ];
 
@@ -22,3 +23,4 @@ const routes: Routes = [
   exports: [RouterModule]
 })
 export class PagesRoutingModule { }
+
