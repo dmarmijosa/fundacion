@@ -46,17 +46,85 @@
     "title1": "Priority and necessity number 1.",
     "content1": "Humanize the reality and vulnerability of the deprived of liberty and the living conditions filled with rejection, isolation, disdain, being ignored and, in one way or another, constantly pointed out for their crime, without opportunity for change.",
     "title2": "Priority and necessity number 2.",
-    "content2":"To assist and provide spiritual and psychological support to make possible a more suitable recovery and reintegration into society, preventing them from reoffending.",
+    "content2": "To assist and provide spiritual and psychological support to make possible a more suitable recovery and reintegration into society, preventing them from reoffending.",
     "title3": "Priority and necessity number 3.",
     "content3": "Psychological and spiritual support and recovery for families, as victims, facing the traumas caused by criminal behavior. Thus, preventing the repetition of the cycle of criminality."
   },
   "fundamentos": "DOCTRINAL FOUNDATIONS OF OUR CHRISTIAN FAITH.",
-  "fundamentosDoctrinales":{
-    "dato1":"We recognize the supreme authority of the Bible as the Word of God, inspired by His Holy Spirit. (2 Timothy 3:16; 2 Peter 1:21).",
+  "fundamentosDoctrinales": {
+    "dato1": "We recognize the supreme authority of the Bible as the Word of God, inspired by His Holy Spirit. (2 Timothy 3:16; 2 Peter 1:21).",
     "dato2": "We firmly believe in God the Father, God the Son, and God the Holy Spirit. God is our Heavenly Father, Jesus Christ is our Savior, and the Holy Spirit is our Comforter and guide to the truth. (Luke 1:35; Matthew 3:16-17; Luke 3:21-22; 1 Peter 1:2, John 1:1, 20:28).",
     "dato3": "We confess that salvation is by grace and not by works, and comes entirely from God, and in His great love, He allows us to be saved and have eternal life through faith in His Son Jesus Christ. (Ephesians 2:8-9; Romans 3:12-23; 2 Corinthians 5:21; John 1:12; Ephesians 1:7; 2:8-10; 1 Peter 1:18-19; John 3:16).",
     "dato4": "We affirm that water baptism is a step that believers take to publicly testify to their faith in Jesus, who was crucified, buried, and resurrected. Baptism does not save and is not for the forgiveness of sins. (Matthew 3:16; 28:18-19; John 3:23; Acts 8:36-38; Romans 6:3-4; 1 Peter 3:21).",
     "dato5": "We know that justification before God is an act of God by which He declares righteous those who, through faith in Christ, truly repent of their sins. (Acts 13:39; Romans 3:24-26; Romans 4:25; Romans 5:1; Romans 5:9; 1 Corinthians 1:30; 1 Corinthians 6:11).",
-    "dato6" :"NOTE: We are passionate about fulfilling the Great Commission and are seeking team members who excel in their fields and want to use their gifts and abilities to impact the kingdom."
+    "dato6": "NOTE: We are passionate about fulfilling the Great Commission and are seeking team members who excel in their fields and want to use their gifts and abilities to impact the kingdom."
+  },
+  "programas": {
+    "programa1": "Restorative justice.",
+    "programa2": "Evangelism, discipleship, and chaplaincy.",
+    "programa3": "Medical brigades.",
+    "programa4": "Psychosocial or occupational talks and workshops.",
+    "programa5": "Psychological and spiritual care.",
+    "programa6": "Comprehensive care for families."
+  },
+  "aportesYayuda": "Contributions and assistance.",
+  "voluntariado": "Volunteering.",
+  "voluntariadoInfo": {
+    "dato1": "Volunteering is a fundamental part of the overall work. Their time and dedication make it possible for the integral development of this ministry. It becomes an active entity of reconciliation and restoration focused on the values of the FCC and sharing the mercy and love of God.",
+    "dato2": "Together with them, we develop different programs aimed at responding to the needs of people deprived of their liberty, their families, and all those who are vulnerable to falling into criminal behavior."
+  },
+  "donaciones": "Donations.",
+  "donacionesInfo": "The work we do is possible thanks to all the volunteers in the field, however, it would not be possible without the support of our donors. Thanks to their charitable hands and hearts, it is possible to make aid a reality in all areas; towards families and those deprived of their liberty.",
+  "proyecciones": "Projections",
+  "proyeccionesDataYear": " Until the year 2027.",
+  "proyeccionesinfo": {
+    "titulo1": "Team.",
+    "dato1": "To have at least 100 volunteers assisting inmates and their families.",
+    "titulo2": "Organizational expansion.",
+    "dato2": "3 regional offices located in Amazonia, Sierra, and Costa.",
+    "titulo3": "Engagement with society.",
+    "dato3": "Agreements with different entities and churches."
+  },
+  "testimonios": {
+    "testimonio1": {
+      "testimonio": "Anonymous Testimony.",
+      "p1": "From the age of 13 I got involved in drugs, violence and delinquency. I ran away from home and wandered in various parts of Ecuador being part of a world full of death and violence; full of pain and emptiness. In prison the guilt and pain was so great that I planned to take my own life.",
+      "p2": "It was through Acts 16:31 that God touched my life. I felt His love, forgiveness and how He restored my being. Now I just want to share with everyone that there is another way, and that in Him there is hope and transformation. I am living proof of the redemptive work of Jesus Christ. Hallelujah! All glory to God forever and ever. Amen."
+    },
+    "testimonio2": {
+      "testimonio": "LOJA SOCIAL REHABILITATION PENITENTIARY CENTER.",
+      "p1": "I wanted to die from the pain, my 4 children were left alone and my mistakes cost me my freedom. Being here is a hell with all the mistreatment and pain. I planned to take revenge and end this suffering.",
+      "p2": "Through the team of ECC and FCC, I was able to feel God's love. I had the opportunity to listen to the word and open my heart to God. My heart was restored, his peace and forgiveness filled my life. God worked a miracle and after 3 months I was set free. Now I testify about the redeeming work of Christ in my life and want to serve him to help many more."
+    },
+    "testimonio3": {
+      "testimonio": "EVANGELIST AND VOLUNTEER AT E.C.C. AND F.C.C.",
+      "p1": "Since I was 11 years old, I entered the world of drugs, crime, and alcoholism. I was a slave to addiction and pain for 38 years. I was in several prisons where I suffered torture, gunshot wounds, and was stabbed 3 times.",
+      "p2": "I had the opportunity to know God and his love and forgiveness. I have been drug-free for 8 years and can finally say that I am free thanks to Him. Currently, I am with ECC and the Confraternidad Carcelaria Foundation, giving testimony of the greatness of God and the true freedom that only Christ Jesus is capable of giving."
+    }
+  },
+  "contactanos": {
+    "titulo": "Contact us at.",
+    "subTitulo": "Your help can change the prison reality of our country and help break the cycle of criminality in Ecuador..",
+    "form": {
+      "label1": "Full name.",
+      "placeholder1": "Write your name.",
+      "label2": "E-mail address.",
+      "placeholder2": "Write your email.",
+      "label3": "Message.",
+      "InfoContacto": "Contact information.",
+      "telefono1": "Phone number 1: ",
+      "telefono2": "Phone number 2: ",
+      "btnLabel": "Send",
+      "numero1":"(+593) 97 953 8433",
+      "numero2": "(+593) 97 953 8432"
+      
+    }
+  },
+  "alert":{
+    "header":"Ups",
+    "content":"Some information is missing from the form.",
+    "headerOk": "OK",
+    "contenteOK":"Submitted successfully."
+
   }
 }

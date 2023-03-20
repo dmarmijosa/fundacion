@@ -1,1 +1,17 @@
-<p>testimonios works!</p>
+<section class="mt-4">
+  <div *ngFor="let item of testimonios" class="container mt-4 mb-3" [ngStyle]="{'background-image': 'url(' + item.urlImg + ')'}">
+
+    <div class="row ">
+      <div class="col-12">
+        <h2>{{item.titulo | translate | uppercase}}</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 offset-lg-4 fondo">
+        <p>{{item.parrafo1 | translate}}</p>
+        <p>{{item.parrafo2 | translate}}</p>
+      </div>
+    </div>
+  </div>
+  
+</section>

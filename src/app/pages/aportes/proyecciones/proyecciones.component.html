@@ -1,0 +1,13 @@
+<div class="container mt-4">
+    <h3>{{"proyecciones" | translate}}<span>{{"proyeccionesDataYear"| translate}}</span></h3>
+    <div class="row">
+      <div *ngFor="let item  of proyecciones" class="col-md-4">
+        <div class="branch">
+          <h2>{{item.titulo | translate}}</h2>
+          <p>{{item.dato | translate}}</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  

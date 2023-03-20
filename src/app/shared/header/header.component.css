@@ -1,14 +1,17 @@
-H3 {
+h3 {
   margin-left: 20px;
   font-size: 2em;
   font-weight: 100;
 }
-span {
+.e {
   background-color: red;
   color: white;
   padding: 2px;
 }
 header {
   padding: 0 20px 0 20px;
-  background-color: #f8f9fa;
+  background-color: #f8f9fa; 
+}
+a:hover{
+  font-weight: bold;
 }

@@ -1,9 +1,9 @@
 <section class="row align-items-md-stretch mb-4">
-    <h3>Ketheln</h3>
+    <h3>{{titulo | translate}}</h3>
     <table class="table table-striped mt-2">
         <tbody>
-            <tr>
-                <th scope="row">1</th>
+            <tr  *ngFor="let item of fundamentos">
+                <th scope="row"><p>{{item | translate}}</p></th>
             </tr>
 
         </tbody>

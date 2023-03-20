@@ -1,1 +1,32 @@
-<p>contactos works!</p>
+<section>
+    <div class="contactanos-component" style="background-image: url('../../../assets/images/esperanza.jpg');">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <h2 class="text-white">{{"contactanos.titulo" | translate}}</h2>
+            <p class="lead text-white">{{"contactanos.subTitulo" | translate}}</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <form autocomplete="off" [formGroup]="miFormulario" (ngSubmit)="enviar()">
+              <div class="form-group">
+                <label for="inputNombre" class="text-white">{{"contactanos.form.label1" | translate}}</label>
+                <input formControlName="nombre" type="text" class="form-control" id="inputNombre" [placeholder]="'contactanos.form.placeholder1' | translate">
+              </div>
+              <div class="form-group">
+                <label for="inputMensaje" class="text-white">{{"contactanos.form.label3" | translate}}</label>
+                <textarea formControlName="mensaje" class="form-control" id="inputMensaje" rows="3"></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary">{{"contactanos.form.btnLabel" | translate}}</button>
+            </form>
+          </div>
+          <div class="col-md-6">
+            <h4 class="text-white">{{"contactanos.form.InfoContacto" | translate}}</h4>
+            <p class="text-white">{{"contactanos.form.telefono1" | translate}}<a href="tel:+593123456789" class="text-white">{{"contactanos.form.numero1" | translate}}</a></p>
+            <p class="text-white">{{"contactanos.form.telefono2" | translate}}<a href="tel:+593987654321" class="text-white">{{"contactanos.form.numero2" | translate}}</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

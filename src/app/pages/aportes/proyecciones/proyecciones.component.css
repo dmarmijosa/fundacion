@@ -1,0 +1,21 @@
+.branch {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .branch h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  @media (max-width: 768px) {
+    .branch {
+      margin-top: 20px;
+    }
+  }
+  span{
+    margin-left: 10px;
+    background-color: red;
+    color: white;
+  }

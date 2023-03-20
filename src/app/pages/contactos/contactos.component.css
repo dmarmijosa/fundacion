@@ -1,0 +1,46 @@
+.contactanos-component {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+  }
+
+  form {
+    margin-top: 30px;
+  }
+
+  label {
+    font-weight: bold;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+    border-radius: 0;
+    color: white;
+    padding: 5px 0;
+    margin-bottom: 20px;
+  }
+
+  input[type="text"]::placeholder,
+  input[type="email"]::placeholder,
+  textarea::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+  }
+
+  .btn-primary {
+    background-color: #ff5722;
+    border-color: #ff5722;
+    margin-top: 30px;
+    padding: 10px 20px;
+    font-size: 18px;
+  }
+
+  .btn-primary:hover,
+  .btn-primary:focus {
+    background-color: #f44336;
+    border-color: #f44336;
+  }

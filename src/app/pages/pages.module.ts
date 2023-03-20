@@ -13,6 +13,8 @@ import { DatosRealidadComponent } from './home/datos-realidad/datos-realidad.com
 import { PrioridadesNecesidadesComponent } from './home/prioridades-necesidades/prioridades-necesidades.component';
 import { PrioridadesNecesidadesInfoComponent } from './home/prioridades-necesidades-info/prioridades-necesidades-info.component';
 import { TranslateModule } from '@ngx-translate/core';
+import { ProyeccionesComponent } from './aportes/proyecciones/proyecciones.component';
+import { ReactiveFormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -26,13 +28,15 @@ import { TranslateModule } from '@ngx-translate/core';
     NuestrosValoresComponent,
     DatosRealidadComponent,
     PrioridadesNecesidadesComponent,
-    PrioridadesNecesidadesInfoComponent
+    PrioridadesNecesidadesInfoComponent,
+    ProyeccionesComponent,
     
   ],
   imports: [
     CommonModule,
     PagesRoutingModule,
-    TranslateModule.forChild()
+    TranslateModule.forChild(), 
+    ReactiveFormsModule
   ]
 })
 export class PagesModule { }

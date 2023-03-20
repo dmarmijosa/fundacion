@@ -1,0 +1,20 @@
+.container{
+    display:flex;
+    flex-direction:column
+}
+
+p{
+    margin-top: 2em;
+    text-align: justify;
+    font-size: 24px;
+    font-family: Lato, Arial, sans-serif;
+    font-style: italic;
+}
+h2{
+    margin: 2em;
+}
+.centerText{
+    font-style: normal;
+    font-weight: 200;
+    text-align: center;
+}
